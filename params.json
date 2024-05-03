@@ -71,7 +71,7 @@
     "users": []
   },
   "tutorialProject": true,
-  "tutorialId": "SAMPLE_TSHIRTS",
+  "tutorialId": "DKU_TSHIRTS",
   "settings": {
     "flowAnchorSourcesAndSinks": true,
     "flowDisplaySettings": {
@@ -193,7 +193,8 @@
     },
     "dkuProperties": []
   },
-  "name": "Predicting Revenue with a TShirt Business",
+  "name": "Dataiku TShirts for user1",
+  "projectStatus": "Sandbox",
   "imgPattern": 1,
   "metrics": {
     "probes": [],
